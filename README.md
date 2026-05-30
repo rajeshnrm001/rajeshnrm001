@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Rajesh Telugu
-** Data Professional || Data Engineer || Cloud Platforms **
+## 💫 Hi 👋, I'm Rajesh Telugu
+## ** Data Professional || Data Engineer || Cloud Platforms **
 
 Email Me 👉 ✉️ **rajeshnrm001@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
